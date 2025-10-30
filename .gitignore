@@ -1,0 +1,13 @@
+# Dotnet
+bin/
+obj/
+
+# React
+node_modules/
+task-manager-frontend/node_modules/
+
+# Logs
+*.log
+
+# IDE
+.vscode/

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@vitejs/plugin-react-swc": "^4.2.0",
+    "axios": "^1.13.1"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.9.36"
+  }
+}
